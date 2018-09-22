@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/home/sebas/Documentos/Universidad/PLataformas a Gran escala/Tarea Vagrant/www_1","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/sebas/Documentos/Universidad/PLataformas a Gran escala/Tarea Vagrant","disabled":false,"__vagrantfile":true}}}
